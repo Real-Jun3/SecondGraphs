@@ -1,0 +1,6 @@
+framework module Pods_MyGraphsTests {
+  umbrella header "Pods-MyGraphsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
